@@ -1,1 +1,2 @@
-"# React-Redux-Fake-Twitch-API" 
+"# React-Redux-Fake-Twitch-API"
+"# RUN WITH REACT REDUX FAKE TWITCH BY RUNNING YARN START OR NPM START"
