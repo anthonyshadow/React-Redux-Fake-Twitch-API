@@ -1,10 +1,20 @@
 {
   "streams": [
     {
-      "title": "test stream #1",
+      "title": "edit with patch",
       "description": "test post #1",
-      "userId": "104114408091148314727",
       "id": 1
+    },
+    {
+      "title": "edited",
+      "description": "stream form test",
+      "id": 2
+    },
+    {
+      "title": "change with patch request",
+      "description": "test to be edited",
+      "userId": "104114408091148314727",
+      "id": 3
     }
   ]
 }
